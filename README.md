@@ -17,7 +17,7 @@
 
 ## The repository consists of the following files:
 
-1. __`HW5.ipynb`__: 
+1. __`Main.ipynb`__: 
 	> A Jupyter notebook which consists of outputs, comments, visualizations and further explanations.
 2. __`data`__:
     > The folder containing the dataset that I have used for this project. ([Source](http://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work))  
